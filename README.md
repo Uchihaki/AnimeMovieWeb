@@ -1,14 +1,13 @@
 # 🎬 Movie Streaming Website
 
-![Movie Streaming Website Screenshot](/api/placeholder/800/400)
+![Movie Streaming Website Screenshot](/frontend/img/MovieWebLook.png)
 
-Welcome to the Movie Streaming Website project! This full-stack web application provides a seamless platform for users to browse, search, and stream their favorite movies online.
+Welcome to the Anime Streaming Website project! This full-stack web application provides a seamless platform for users to browse, search, and stream their favorite anime online.
 
 ## 🚀 Features
 
 - User-friendly interface for browsing and searching movies
 - Responsive design for optimal viewing on various devices
-- User authentication and personalized watchlists
 - RESTful API for efficient data management
 - Robust database for storing movie details and user information
 
@@ -25,12 +24,12 @@ Welcome to the Movie Streaming Website project! This full-stack web application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/movie-streaming-website.git
+   git clone https://github.com/yourusername/AnimeMovieWeb.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd movie-streaming-website
+   cd AnimeMovieWeb
    ```
 
 3. Install dependencies:
@@ -49,8 +48,8 @@ Welcome to the Movie Streaming Website project! This full-stack web application 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/movie-streaming-website/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check khangminhnguyengl@gmail.com
 
 ## 📝 License
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+This is a personal project
