@@ -1,55 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Streaming Website README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2980b9;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-            margin: 20px 0;
-        }
-        code {
-            background-color: #f4f4f4;
-            border: 1px solid #ddd;
-            border-radius: 3px;
-            padding: 2px 5px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        .badge {
-            display: inline-block;
-            padding: 3px 7px;
-            font-size: 12px;
-            font-weight: bold;
-            line-height: 1;
-            color: #fff;
-            background-color: #3498db;
-            border-radius: 10px;
-            margin-right: 5px;
-        }
-    </style>
-</head>
+
 <body>
     <h1>🎬 Movie Streaming Website</h1>
     
@@ -106,4 +55,4 @@
     <h2>📝 License</h2>
     <p>This project is <a href="#">MIT</a> licensed.</p>
 </body>
-</html>
+
