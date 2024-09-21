@@ -1,58 +1,56 @@
+# 🎬 Movie Streaming Website
 
-<body>
-    <h1>🎬 Movie Streaming Website</h1>
-    
-    <img src="/api/placeholder/800/400" alt="Movie Streaming Website Screenshot">
-    
-    <p>Welcome to the Movie Streaming Website project! This full-stack web application provides a seamless platform for users to browse, search, and stream their favorite movies online.</p>
-    
-    <h2>🚀 Features</h2>
-    <ul>
-        <li>User-friendly interface for browsing and searching movies</li>
-        <li>Responsive design for optimal viewing on various devices</li>
-        <li>RESTful API for efficient data management</li>
-        <li>Robust database for storing movie details and user information</li>
-    </ul>
-    
-    <h2>🛠️ Technologies Used</h2>
-    <p>
-        <span class="badge">HTML</span>
-        <span class="badge">CSS</span>
-        <span class="badge">JavaScript</span>
-        <span class="badge">Java</span>
-        <span class="badge">Spring Boot</span>
-        <span class="badge">MongoDB</span>
-    </p>
-    
-    <h2>⚙️ Installation</h2>
-    <ol>
-        <li>Clone the repository:
-            <br>
-            <code>git clone https://github.com/yourusername/AnimeMovieWeb.git</code>
-        </li>
-        <li>Navigate to the project directory:
-            <br>
-            <code>cd AnimeMovieWeb</code>
-        </li>
-        <li>Install dependencies:
-            <br>
-            <code>npm install</code> (for frontend)
-            <br>
-            <code>mvn install</code> (for backend)
-        </li>
-        <li>Set up MongoDB and update the connection string in <code>application.properties</code></li>
-        <li>Run the application:
-            <br>
-            <code>npm start</code> (for frontend)
-            <br>
-            <code>mvn spring-boot:run</code> (for backend)
-        </li>
-    </ol>
-    
-    <h2>🤝 Contributing</h2>
-    <p>Contributions, issues, and feature requests are welcome! Feel free to check the <a href="#">issues page</a>.</p>
-    
-    <h2>📝 License</h2>
-    <p>This project is <a href="#">MIT</a> licensed.</p>
-</body>
+![Movie Streaming Website Screenshot](/api/placeholder/800/400)
 
+Welcome to the Movie Streaming Website project! This full-stack web application provides a seamless platform for users to browse, search, and stream their favorite movies online.
+
+## 🚀 Features
+
+- User-friendly interface for browsing and searching movies
+- Responsive design for optimal viewing on various devices
+- User authentication and personalized watchlists
+- RESTful API for efficient data management
+- Robust database for storing movie details and user information
+
+## 🛠️ Technologies Used
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/movie-streaming-website.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd movie-streaming-website
+   ```
+
+3. Install dependencies:
+   ```
+   npm install  # for frontend
+   mvn install  # for backend
+   ```
+
+4. Set up MongoDB and update the connection string in `application.properties`
+
+5. Run the application:
+   ```
+   npm start  # for frontend
+   mvn spring-boot:run  # for backend
+   ```
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/movie-streaming-website/issues).
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
