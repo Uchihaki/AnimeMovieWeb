@@ -50,6 +50,4 @@ Welcome to the Anime Streaming Website project! This full-stack web application 
 
 Contributions, issues, and feature requests are welcome! Feel free to contact khangminhnguyengl@gmail.com
 
-## 📝 License
 
-This is a personal project
